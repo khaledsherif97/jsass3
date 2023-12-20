@@ -1,0 +1,17 @@
+h1{
+    font-family: 'Pacifico', cursive;
+    transform: translateY(-100px);
+    
+}
+.parant{
+    
+    height: 150px;
+    position: relative;
+}
+.back{
+   
+    width: 350px;
+    height: 30px;
+   transform: translateY(100px);
+    
+}
